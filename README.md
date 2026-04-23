@@ -1,4 +1,4 @@
-<img width="1914" height="918" alt="Screenshot 2026-04-23 212134" src="https://github.com/user-attachments/assets/c6442f26-2a6e-4000-9cd5-e1990e2a8243" /># AMAZON-CLONE
+# AMAZON-CLONE
 A front-end project focused on recreating the Amazon.com homepage interface. This project demonstrates core web development skills by building a complex, multi-section UI from scratch without the use of external frameworks or libraries.
 
 🛠️ Key Features
